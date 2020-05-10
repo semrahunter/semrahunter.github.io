@@ -7,39 +7,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="navbar-logo.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg128"
-   version="1.1"
-   viewBox="0 0 226.24324 34.327076"
+   width="226.24324"
    height="34.327076"
-   width="226.24324">
+   viewBox="0 0 226.24324 34.327076"
+   version="1.1"
+   id="svg128"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="navbar-logo.svg">
   <defs
      id="defs122" />
   <sodipodi:namedview
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     inkscape:window-maximized="0"
-     inkscape:window-y="221"
-     inkscape:window-x="922"
-     inkscape:window-height="657"
-     inkscape:window-width="851"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="68.325214"
-     inkscape:cx="184.62875"
-     inkscape:zoom="1.07"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
+     units="px"
      id="base"
-     units="px" />
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.5837067"
+     inkscape:cx="121.42172"
+     inkscape:cy="3.4346873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1415"
+     inkscape:window-height="855"
+     inkscape:window-x="25"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata125">
     <rdf:RDF>
@@ -53,20 +53,20 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-1.383747,-1.5187255)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-1.383747,-1.5187255)">
     <text
-       id="text132"
-       y="33.536377"
-       x="3.7970622"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:SignPainter;-inkscape-font-specification:SignPainter;fill:#fed136;fill-opacity:1;stroke-width:0.264583"
-         y="33.536377"
-         x="3.7970622"
+       x="3.7970622"
+       y="33.536377"
+       id="text132"><tspan
+         sodipodi:role="line"
          id="tspan130"
-         sodipodi:role="line">Semra Hunter</tspan></text>
+         x="3.7970622"
+         y="33.536377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:SignPainter;-inkscape-font-specification:SignPainter;fill:#fed136;fill-opacity:1;stroke-width:0.264583">Semra Hunter</tspan></text>
   </g>
 </svg>
