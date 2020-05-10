@@ -1,0 +1,49 @@
+title: Semra Hunter | Sports Broadcast Journalist
+header:
+  heading: It's Nice To Meet You
+  subheading: Welcome!
+  button:
+    text: Get in touch!
+    link: "#contact"
+services:
+  heading: Services
+  subheading: How I can help <strong>you</strong>
+portfolio:
+  heading: Portfolio
+  subheading: A sneak peek of my glass cabinet!
+about:
+  heading: Who am I?
+  subheading: My sports broadcasting journey
+  last: What's next? Let’s find out together!
+team:
+  heading: Our Amazing Team
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+logos:
+  heading:
+  subheading:
+contact:
+  heading: Get in touch
+  subheading: Tell me about <strong>you</strong>
+  button: Just a click away!
+  url: https://app.99inbound.com/api/e/tUqCOjIh
+footer:
+  copyright: Copyright © Semra Hunter
+  socialmedia:
+    fa-linkedin-in: https://linkedin.com/in/semrahunter
+    fa-twitter: https://twitter.com/semrahunter
+    fa-instagram: https://instagram.com/semra_hunter
+    fa-youtube: https://youtube.com/semrahunter
+    fa-facebook-f: https://facebook.com/SemraHunterTV
+    #fa-periscope: https://www.pscp.tv/SemraHunter
+cookie-consent:
+  popup:
+    background: \#212529
+  button:
+    background: \#fed136
+    hover: \#fec810
+    text: \#fff
+  theme: classic
+  position: bottom-right
+  type: opt-in
+  message: I would like to use cookies to ensure you get the best experience on my website.

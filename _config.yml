@@ -1,0 +1,18 @@
+url: ""
+baseurl: ""
+theme: null
+
+google:
+  tracking_id: UA-1065559-6
+
+collections:
+  services:
+    output: false
+  portfolio:
+    output: false
+  about:
+    output: false
+  team:
+    output: false
+  logos:
+    output: false
