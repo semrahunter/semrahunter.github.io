@@ -1,4 +1,23 @@
 title: Semra Hunter | Sports Broadcast Journalist
+description: Looking for a certain someone to host your show? To report on location at a major event? Or to even MC your big event? You’ve come to the right place!
+open_graph:
+  name: Semra
+  surname: Hunter
+  image: https://www.semrahunter.com/assets/images/about/06-laliga-studio.jpg
+structured_data:
+    '@type': Person
+    name: Semra Hunter
+    jobTitle: Sports Broadcast Journalist
+    alumniOf: [
+      { "@type": "EducationalOrganization", "name": "University of California, Berkeley" },
+      { "@type": "EducationalOrganization", "name":"Escuela Universitaria Real Madrid, Universidad Europea de Madrid" },
+      { "@type": "Organization", "name": "Real Madrid TV, Madrid" },
+      { "@type": "Organization", "name": "TRT World, Istanbul" },
+      { "@type": "Organization", "name": "LaLiga TV, Barcelona" }
+    ]
+    url: https://www.semrahunter.com
+    image: https://www.semrahunter.com/assets/images/about/06-laliga-studio.jpg
+    brand: Semra Hunter
 header:
   heading: It's Nice To Meet You
   subheading: Welcome!
