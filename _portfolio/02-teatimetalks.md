@@ -1,7 +1,7 @@
 ---
 published: true
 human-date: Spring 2020
-title: TeaTimeTalks
+title: Tea Time Talks
 subtitle: Football in times of Covid-19
 thumbnail: teatimetalk-thumbnail.jpg
 youtubeId: cL0c3856g98
