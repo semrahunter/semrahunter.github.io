@@ -27,7 +27,7 @@ window['ga-disable-{{ site.google.tracking_id }}'] = true;
             if (type == 'opt-out' && !didConsent) {
                 window['ga-disable-{{ site.google.tracking_id }}'] = true;
             }
-            gtag('config', '{{ site.google.tracking_id }}');
+            dataLayer.push({event: 'pageview'});
         },
         onStatusChange: function(status, chosenBefore) {
             var type = this.options.type;
@@ -38,7 +38,7 @@ window['ga-disable-{{ site.google.tracking_id }}'] = true;
             if (type == 'opt-out' && !didConsent) {
                 window['ga-disable-{{ site.google.tracking_id }}'] = true;
             }
-            gtag('config', '{{ site.google.tracking_id }}');
+            dataLayer.push({event: 'pageview'});
         },
         onRevokeChoice: function() {
             var type = this.options.type;
@@ -48,7 +48,7 @@ window['ga-disable-{{ site.google.tracking_id }}'] = true;
             if (type == 'opt-out') {
                 window['ga-disable-{{ site.google.tracking_id }}'] = false;
             }
-            gtag('config', '{{ site.google.tracking_id }}');
+            dataLayer.push({event: 'pageview'});
         },
     });
 </script>
