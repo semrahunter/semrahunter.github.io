@@ -4,6 +4,7 @@ theme: null
 
 google:
   tracking_id: UA-1065559-6
+  container_id: GTM-T6BCSPP
 
 collections:
   services:
