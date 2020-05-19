@@ -4,7 +4,7 @@
                     <div class="col-lg-4 text-lg-left">{{ site.data.home.footer.copyright }} {{ 'now' | date: "%Y" }}</div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         {% for network in site.data.home.footer.socialmedia %}
-                        <a class="btn btn-dark btn-social mx-2" href="{{ network[1] }}" target="_blank"><i class="fab {{ network[0] }} "></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="{{ network[1] }}" target="_blank" rel="noopener"><i class="fab {{ network[0] }} "></i></a>
                         {% endfor %}
                     </div>
                     <div class="col-lg-4 text-lg-right"><a class="mr-3" href="#!">Privacy Policy</a><a href="#!">Terms of Use</a></div>
