@@ -2,14 +2,14 @@
         <div class="portfolio-modal modal fade" id="portfolioModal{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-dismiss="modal"><img src="assets/images/close-icon.svg" /></div>
+                    <div class="close-modal" data-dismiss="modal"><img src="assets/images/close-icon.svg" loading="lazy" alt="close button"/></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">{{ portfolio.title }}</h2>
                                     <p class="item-intro text-muted">{{ portfolio.subtitle }}</p>
-                                    {% if portfolio.img -%}<img class="img-fluid d-block mx-auto" src="assets/images/portfolio/{{ portfolio.img }}" alt="" />{% endif -%}
+                                    {% if portfolio.img -%}<img class="img-fluid d-block mx-auto" src="assets/images/portfolio/{{ portfolio.img }}" loading="lazy" alt="{{ portfolio.img }}" />{% endif -%}
                                     {% if portfolio.youtubeId -%}{% include youtubePlayer.html id=portfolio.youtubeId starttime=portfolio.youtubeTime%}{% endif -%}
                                     <p>{{ portfolio.content }}</p>
                                     <ul class="list-inline">
