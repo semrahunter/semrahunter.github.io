@@ -4,9 +4,9 @@ human-date: 2020
 title: LaLiga TV Launch Event
 subtitle: Channel unveiling for UK / Ireland
 thumbnail: javiertebas-thumbnail.jpg
-thumbnail_alt:
+thumbnail_alt: Semra interviewing LaLiga president Javier Tebas during the official launch event of the LaLiga TV channel in London for UK and Ireland viewers
 img: laliga-stage.jpg
-img_alt:
+img_alt: Semra posing on stage after hosting the official launch event of the LaLiga TV channel in London for a group photo with Mauricio Pochettino, Gustavo Poyet, Javier Tebas, Guillem Balagué, Graham Hunter and Simon Hanley
 company: LaLiga TV
 category: Spanish Football
 ---

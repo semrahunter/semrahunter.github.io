@@ -4,9 +4,9 @@ human-date: 2013 - Present
 title: Player Interviews
 subtitle: In-depth chat with stars
 thumbnail: terstegen-thumbnail.jpg
-thumbnail_alt:
+thumbnail_alt: Semra interviewing FC Barcelona’s Marc-André Ter Stegen ahead of El Clásico against Real Madrid for LaLiga TV
 img: xavihernandez.jpg
-img_alt:
+img_alt: Semra Hunter and Xavi Hernández, FC Barcelona and Spain legend, after an interview about the World Cup 2022 in Doha, Qatar
 company: LaLiga TV / RealMadrid TV / TRT World
 category: Sports
 ---

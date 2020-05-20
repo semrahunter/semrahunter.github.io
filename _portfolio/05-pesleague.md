@@ -4,9 +4,9 @@ human-date: 2018
 title: PES League World Tour
 subtitle: European and World Finals
 thumbnail: pesleague-thumbnail.jpg
-thumbnail_alt:
+thumbnail_alt: Semra introducing PES League players in front of a live audience ahead of a match during the PES League World Tour 2018
 img: pesleague-full.jpg
-img_alt:
+img_alt: Semra hosting the European Finals for the PES League World Tour 2018 in Berlin to a live audience in situ and online
 company: EMR / Konami
 category: Esports
 ---

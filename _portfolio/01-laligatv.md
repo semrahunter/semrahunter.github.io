@@ -4,7 +4,7 @@ human-date: 2018 - Present
 title: LaLiga TV
 subtitle: Highlights of studio work
 thumbnail: laligatv-thumbnail.jpg
-thumbnail_alt:
+thumbnail_alt: Lauren Bisan Etame-Mayer, Semra Hunter and Guillem Balagué posing together in the LaLiga TV studio before LaLiga Live
 youtubeId: v6psSkhlZnI
 youtubeTime: 0
 company: LaLiga TV

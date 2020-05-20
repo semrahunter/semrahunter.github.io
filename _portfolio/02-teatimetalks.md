@@ -4,7 +4,7 @@ human-date: Spring 2020
 title: Tea Time Talks
 subtitle: Football in times of Covid-19
 thumbnail: teatimetalk-thumbnail.jpg
-thumbnail_alt:
+thumbnail_alt: Semra posing with a cup of tea for a behind the scenes shot of her weekly Twitter / Periscope live chats on \#TeaTimeTalks during the COVID-19 lockdown
 youtubeId: cL0c3856g98
 youtubeTime: 3
 company: Self-initiative
