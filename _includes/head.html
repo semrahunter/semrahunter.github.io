@@ -7,6 +7,11 @@
         <title>{{ site.data.home.title }}</title>
         {% include seo.html -%}
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
+        <link href="https://use.fontawesome.com" rel="preconnect" crossorigin>
+        <link href="https://googleads.g.doubleclick.net" rel="preconnect" crossorigin>
+        <link href="https://stackpath.bootstrapcdn.com" rel="preconnect" crossorigin>
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link href="https://www.youtube.com" rel="preconnect" crossorigin>
         <script src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" crossorigin="anonymous" async></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" defer></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" defer></script>
@@ -15,13 +20,11 @@
         <script src="assets/js/scripts.js" defer></script>
         <script src="assets/js/contact_me.js" defer></script>
         <script src="assets/js/video-embed.js" defer></script>
-        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <link href="{{ "assets/css/styles.css" | prepend: site.baseurl }}" rel="stylesheet" />
         <link href="{{ "assets/css/video-embed.css" | prepend: site.baseurl }}" rel="stylesheet" />
-        <link href="https://www.youtube.com" rel="preconnect">
         {% if jekyll.environment == 'production' and site.google -%}
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
         {% endif -%}
