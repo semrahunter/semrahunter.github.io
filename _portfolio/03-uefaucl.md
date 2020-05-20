@@ -4,6 +4,7 @@ human-date: 2014 - 2018
 title: Champions League
 subtitle: The pinnacle of European football
 thumbnail: uefaucl-thumbnail.jpg
+thumbnail_alt:
 youtubeId: PMi2fQztjn4
 youtubeTime: 0
 company: RealMadrid TV / TRT World

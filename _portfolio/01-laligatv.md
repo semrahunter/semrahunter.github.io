@@ -4,6 +4,7 @@ human-date: 2018 - Present
 title: LaLiga TV
 subtitle: Highlights of studio work
 thumbnail: laligatv-thumbnail.jpg
+thumbnail_alt:
 youtubeId: v6psSkhlZnI
 youtubeTime: 0
 company: LaLiga TV

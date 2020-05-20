@@ -3,8 +3,10 @@ published: true
 human-date: 2018
 title: PES League World Tour
 subtitle: European and World Finals
-img: pesleague-full.jpg
 thumbnail: pesleague-thumbnail.jpg
+thumbnail_alt:
+img: pesleague-full.jpg
+img_alt:
 company: EMR / Konami
 category: Esports
 ---

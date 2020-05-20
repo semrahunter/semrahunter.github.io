@@ -3,8 +3,10 @@ published: true
 human-date: 2020
 title: LaLiga TV Launch Event
 subtitle: Channel unveiling for UK / Ireland
-img: laliga-stage.jpg
 thumbnail: javiertebas-thumbnail.jpg
+thumbnail_alt:
+img: laliga-stage.jpg
+img_alt:
 company: LaLiga TV
 category: Spanish Football
 ---

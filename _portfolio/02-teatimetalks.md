@@ -4,6 +4,7 @@ human-date: Spring 2020
 title: Tea Time Talks
 subtitle: Football in times of Covid-19
 thumbnail: teatimetalk-thumbnail.jpg
+thumbnail_alt:
 youtubeId: cL0c3856g98
 youtubeTime: 3
 company: Self-initiative

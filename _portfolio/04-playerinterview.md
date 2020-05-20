@@ -3,8 +3,10 @@ published: true
 human-date: 2013 - Present
 title: Player Interviews
 subtitle: In-depth chat with stars
-img: xavihernandez.jpg
 thumbnail: terstegen-thumbnail.jpg
+thumbnail_alt:
+img: xavihernandez.jpg
+img_alt:
 company: LaLiga TV / RealMadrid TV / TRT World
 category: Sports
 ---
