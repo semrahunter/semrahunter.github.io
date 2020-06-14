@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
-window['ga-disable-{{ site.google.tracking_id }}'] = true;
+    window['ga-disable-{{ site.google.tracking_id }}'] = true;
     window.cookieconsent.initialise({
         "palette": {
             "popup": {
@@ -49,10 +49,6 @@ window['ga-disable-{{ site.google.tracking_id }}'] = true;
                 window['ga-disable-{{ site.google.tracking_id }}'] = false;
             }
             dataLayer.push({event: 'pageview'});
-        },
-        location: true,
-        law: {
-            regionalLaw: false,
         },
     });
 </script>
