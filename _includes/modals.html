@@ -10,7 +10,7 @@
                                     <h2 class="text-uppercase">{{ portfolio.title }}</h2>
                                     <p class="item-intro text-muted">{{ portfolio.subtitle }}</p>
                                     {% if portfolio.img -%}<img class="img-fluid d-block mx-auto lazy-modal" data-src="assets/images/portfolio/{{ portfolio.img }}" alt="{{ portfolio.img_alt }}" />{% endif -%}
-                                    {% if portfolio.youtubeId -%}{% include youtubePlayer.html id=portfolio.youtubeId starttime=portfolio.youtubeTime%}{% endif -%}
+                                    {% if portfolio.youtubeId -%}{% include youtubePlayer.html id=portfolio.youtubeId starttime=portfolio.youtubeTime %}{% endif -%}
                                     {{ portfolio.content }}
                                     <ul class="list-inline">
                                         <li>Date: {{ portfolio.human-date }}</li>
