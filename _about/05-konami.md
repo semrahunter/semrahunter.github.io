@@ -1,5 +1,6 @@
 ---
 published: true
+heading: true
 title: Konami / EMR
 period: Feb 2018 - Jul 2018
 img: 05-pesleague.jpg

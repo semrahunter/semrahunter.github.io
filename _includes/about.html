@@ -5,18 +5,20 @@
                     <h3 class="section-subheading text-muted">{{ site.data.home.about.subheading }}</h3>
                 </div>
                 <ul class="timeline">
-                    {% for about in site.about %}
+                    {% for about in site.about -%}
                     <li class="{% cycle 'timeline', 'timeline-inverted' %}">
                         <div class="timeline-image"><img class="rounded-circle img-fluid lazy" data-src="assets/images/about/{{ about.img }}" alt="{{ about.alt }}" /></div>
                         <div class="timeline-panel">
+                            {% if about.heading -%}
                             <div class="timeline-heading">
                                 <h4>{{ about.period }}</h4>
-                                <h4 class="subheading">{{ about.title}}</h4>
+                                <h4 class="subheading">{{ about.title }}</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">{{ about.content }}</p></div>
+                            {% endif -%}
+                            <div class="timeline-body"><p class="text-muted">{{ about.content | markdownify | remove: '<p>' | remove: '</p>' }}</p></div>
                         </div>
                     </li>
-                    {% endfor %}
+                    {% endfor -%}
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>{{ site.data.home.about.last }}</h4>

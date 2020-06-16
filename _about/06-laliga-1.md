@@ -1,5 +1,6 @@
 ---
 published: true
+heading: true
 title: LaLiga TV
 period: Apr 2018 - Present
 img: 06-laliga-studio.jpg

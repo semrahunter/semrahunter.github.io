@@ -1,5 +1,6 @@
 ---
 published: true
+heading: true
 title: A football fan is born
 period: March 11
 img: 00-footballfan.jpg

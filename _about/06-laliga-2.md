@@ -1,7 +1,8 @@
 ---
 published: true
-title: ''
-period: ''
+heading: false
+title: LaLiga TV
+period: Apr 2018 - Present
 img: 06-laliga-interview.jpg
 alt: Marc Bartra and Semra Hunter smile for the camera following an interview for LaLiga TV
 ---
