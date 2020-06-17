@@ -3,7 +3,7 @@ description: Looking for someone to host your show? To report on location at a m
 open_graph:
   name: Semra
   surname: Hunter
-  image: https://www.semrahunter.com/assets/images/about/06-laliga-studio.jpg
+  image: https://www.semrahunter.com/assets/images/opengraph.jpg
 structured_data:
     '@type': Person
     name: Semra Hunter
@@ -16,7 +16,7 @@ structured_data:
       { "@type": "Organization", "name": "LaLiga TV, Barcelona" }
     ]
     url: https://www.semrahunter.com
-    image: https://www.semrahunter.com/assets/images/about/06-laliga-studio.jpg
+    image: https://www.semrahunter.com/assets/images/opengraph.jpg
     brand: Semra Hunter
 header:
   heading: It's Nice To Meet You
