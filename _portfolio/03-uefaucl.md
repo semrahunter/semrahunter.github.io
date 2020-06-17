@@ -4,7 +4,7 @@ human-date: 2014 - 2018
 title: Champions League
 subtitle: The pinnacle of European football
 thumbnail: uefaucl-thumbnail.jpg
-thumbnail_alt: Semra smiling for the camera at the Vicente Calderón stadium from the press box ahead of an Atlético de Madrid Champions League game
+thumbnail_alt: Semra smiling for the camera at the Vicente Calderón stadium ahead of an Atlético de Madrid Champions League game
 youtubeId: PMi2fQztjn4
 youtubeTime: 0
 company: RealMadrid TV / TRT World
