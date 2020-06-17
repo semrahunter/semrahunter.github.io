@@ -1,5 +1,5 @@
 title: Semra Hunter | Sports Broadcast Journalist
-description: Looking for a certain someone to host your show? To report on location at a major sporting event? Or to even MC your big ocassion? You’ve come to the right place!
+description: Looking for someone to host your show? To report on location at a major sporting event? Or to even MC your big occasion? You’ve come to the right place!
 open_graph:
   name: Semra
   surname: Hunter
@@ -26,7 +26,7 @@ header:
     link: "#contact"
 services:
   heading: Services
-  subheading: How I can help <strong>you</strong>
+  subheading: How I can help you
 portfolio:
   heading: Portfolio
   subheading: Click for a sneak peek of my glass cabinet!
@@ -43,7 +43,7 @@ logos:
   subheading:
 contact:
   heading: Get in touch
-  subheading: Tell me about <strong>you</strong>
+  subheading: Tell me about you
   button: Just a click away!
   url: https://app.99inbound.com/api/e/tUqCOjIh
 footer:
@@ -57,11 +57,11 @@ footer:
     #fa-periscope: https://www.pscp.tv/SemraHunter
 cookie-consent:
   popup:
-    background: \#212529
+    background: '#212529'
   button:
-    background: \#fed136
-    hover: \#fec810
-    text: \#fff
+    background: '#fed136'
+    hover: '#fec810'
+    text: '#fff'
   theme: classic
   position: bottom-right
   type: opt-in
