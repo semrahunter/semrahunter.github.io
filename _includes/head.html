@@ -7,18 +7,10 @@
         <title>{{ page.title }}</title>
         {% include seo.html -%}
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
-        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-        <link href="https://use.fontawesome.com" rel="preconnect" crossorigin>
-        <link href="https://www.youtube.com" rel="preconnect" crossorigin>
-        <link href="https://yt3.ggpht.com" rel="preconnect" crossorigin>
-        <link href="https://i.ytimg.com" rel="preconnect" crossorigin>
-        <link href="https://stackpath.bootstrapcdn.com" rel="preconnect" crossorigin>
-        <link href="https://googleads.g.doubleclick.net" rel="preconnect" crossorigin>
-        <link href="https://static.doubleclick.net" rel="preconnect" crossorigin>
-        <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" defer></script>
-        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/plugins/jquery.lazy.youtube.min.js" defer></script>
@@ -28,7 +20,7 @@
         <script src="assets/js/utils.js" defer></script>
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Droid+Serif:400,700,400italic,700italic|Roboto+Slab:400,100,300,700&display=swap" rel="stylesheet" type="text/css" />
         <link href="{{ "assets/css/styles.css" | prepend: site.baseurl }}" rel="stylesheet" />
-        <link href="{{ "assets/css/video-embed.css" | prepend: site.baseurl }}" rel="stylesheet" />
         {% if jekyll.environment == 'production' and site.google -%}
-        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css" />
         {% endif -%}
+        <link href="{{ "assets/css/video-embed.css" | prepend: site.baseurl }}" rel="stylesheet" />
