@@ -1,7 +1,7 @@
 ---
 published: true
 human-date: 2020
-title: LaLiga Ambassadors Gala
+title: LaLiga Ambassadors
 subtitle: Presentation for 2020-21 season
 thumbnail: laligagala-thumbnail.jpg
 thumbnail_alt: Alex Gonzalez and Semra Hunter presenting LaLiga Ambassadors Gala Season 90
