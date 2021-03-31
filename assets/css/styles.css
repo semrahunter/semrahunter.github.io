@@ -10457,7 +10457,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .expand {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 2px;
   visibility: hidden;
 }
 @media (max-width: 1024px) {
