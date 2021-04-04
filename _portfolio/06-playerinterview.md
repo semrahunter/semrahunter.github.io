@@ -2,7 +2,7 @@
 published: true
 human-date: 2013 - Present
 title: Player Interviews
-subtitle: In-depth chat with stars
+subtitle: In-depth chats with stars
 thumbnail: terstegen-thumbnail.jpg
 thumbnail_alt: Semra interviewing FC Barcelona’s Marc-André Ter Stegen ahead of El Clásico against Real Madrid for LaLiga TV
 img: xavihernandez.jpg

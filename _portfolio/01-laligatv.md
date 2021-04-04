@@ -3,9 +3,9 @@ published: true
 human-date: 2018 - Present
 title: LaLiga TV
 subtitle: Highlights of studio work
-thumbnail: laligatv-thumbnail.jpg
-thumbnail_alt: Lauren Bisan Etame-Mayer, Semra Hunter and Guillem Balagué posing together in the LaLiga TV studio before LaLiga Live
-youtubeId: v6psSkhlZnI
+thumbnail: laligatv2021-thumbnail.jpg
+thumbnail_alt: Semra Hunter posing with Graham Hunter and Andy West on a Real Madrid - Atlético de Madrid couch
+youtubeId: GGzivktwcPY
 youtubeTime: 0
 company: LaLiga TV
 category: Spanish Football
