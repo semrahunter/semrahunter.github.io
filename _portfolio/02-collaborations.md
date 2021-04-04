@@ -7,7 +7,7 @@ thumbnail: sky-thumbnail.jpg
 thumbnail_alt: Semra Hunter analyzing the arrival of Ronald Koeman as FC Barcelona manager for Sky Sports News
 youtubeId: bcAdnUBvlT4
 youtubeTime: 0
-company: Sky Sports / BBC / FIFA TV
+company: Sky Sports / BBC
 category: Spanish Football 
 ---
 Apart from my main work as a presenter with LaLiga TV, I also collaborate with other media outlets across the globe in a punditry role as a Spanish football expert. In my television or radio appearances, I discuss anything from LaLiga to Spanish teams in the Champions Leagues or the Spanish national team and their various competitions. 
