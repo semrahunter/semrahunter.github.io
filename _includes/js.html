@@ -1,4 +1,6 @@
         {% if jekyll.environment == 'production' and site.google -%}
         {% include osano.html %}
         {% endif -%}
+        {% if jekyll.environment == 'production' -%}
         {% include cloudflare.html %}
+        {% endif -%}
