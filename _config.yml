@@ -6,6 +6,9 @@ google:
   tracking_id: UA-1065559-6
   container_id: GTM-T6BCSPP
 
+cloudflare:
+  token: 22fd2f90904e4b2ab055e41988e9644f
+
 collections:
   services:
     output: false
