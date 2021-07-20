@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 human-date: 2020
 title: Smart City Live 2020
 subtitle: Sustainable cities for the future

@@ -5,7 +5,7 @@ title: LaLiga TV
 subtitle: Highlights of studio work
 thumbnail: laligatv2021-thumbnail.jpg
 thumbnail_alt: Semra Hunter posing with Graham Hunter and Andy West on a Real Madrid - Atlético de Madrid couch
-youtubeId: GGzivktwcPY
+youtubeId: nvV_JSXGWS0
 youtubeTime: 0
 company: LaLiga TV
 category: Spanish Football
