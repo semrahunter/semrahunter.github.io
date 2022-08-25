@@ -19,6 +19,7 @@ structured_data:
     image: https://www.semrahunter.com/assets/images/opengraph.jpg
     brand: Semra Hunter
 header:
+  enable_text: false
   heading: It's Nice To Meet You
   subheading: Welcome!
   button:

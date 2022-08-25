@@ -18,8 +18,10 @@
         {% else -%}
         <header class="masthead">
             <div class="container">
+                {% if site.data.home.header.enable_text == true -%}
                 <div class="masthead-subheading">{{ site.data.home.header.subheading }}</div>
                 <div class="masthead-heading text-uppercase">{{ site.data.home.header.heading }}</div>
+                {% endif -%}
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.home.header.button.link }}">{{ site.data.home.header.button.text }}</a>
             </div>
         </header>
