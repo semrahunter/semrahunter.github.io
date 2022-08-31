@@ -10095,7 +10095,7 @@ header.masthead {
   background-image: url("../images/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: left center;
+  background-position: center center;
   background-size: cover;
 }
 header.masthead .masthead-subheading {
@@ -10464,4 +10464,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   .expand {
     visibility: visible;
   }
+}
+
+.link-dark {
+  color: #212529;
+}
+.link-dark:hover, .link-dark:focus {
+  color: #1a1e21;
 }
